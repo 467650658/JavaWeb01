@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<studentss>
+<student>
+    <studentId>1</studentId>
+    <studentName>李汉钦</studentName>
+    <age>2</age>
+    <sex>女</sex>
+    <department>计科</department>
+    <address>信机系</address>
+    <birthplace>漳州</birthplace>
+</student>
+
+    <student>
+        <studentId></studentId>
+        <studentName></studentName>
+        <age></age>
+        <sex></sex>
+        <department></department>
+        <address></address>
+        <birthplace></birthplace>
+    </student>
+
+    <student>
+        <studentId></studentId>
+        <studentName></studentName>
+        <age></age>
+        <sex></sex>
+        <department></department>
+        <address></address>
+        <birthplace></birthplace>
+    </student>
+</studentss>
